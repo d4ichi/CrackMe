@@ -71,6 +71,6 @@ __recovery/
 modules/
 
 # Build results
-*/Win32/[Dd]ebug/
-*/Win32/[Rr]elease/
+*/Win32/[Dd]ebug/*
+*/Win32/[Rr]elease/*
 !*/Win32/[Rr]elease/CrackMe.exe
